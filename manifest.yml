@@ -1,5 +1,5 @@
 applications:
-- name: spring-bbot-app
+- name: pal-tracker
   disk_quota: 512M  
   memory: 1024M
   instance: 1
